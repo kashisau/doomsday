@@ -2,13 +2,13 @@
 #include <stdlib.h>
 #include <assert.h>
 
-#define THURSDAY 0
-#define FRIDAY   1
-#define SATURDAY 2
-#define SUNDAY   3
-#define MONDAY   4
-#define TUESDAY  5
-#define WEDNESDAY 6
+#define SUNDAY   0
+#define MONDAY   1
+#define TUESDAY  2
+#define WEDNESDAY 3
+#define THURSDAY 4
+#define FRIDAY   5
+#define SATURDAY 6
  
 #define TRUE 1
 #define FALSE 0
